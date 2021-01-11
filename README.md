@@ -53,8 +53,8 @@ When using a 6 pin cable you can use the power source provided by the meter.
   
 | P1 pin   | ESP8266 Pin |
 | ----     | ---- |
-| 1 - 5v out | 5v or Vin |
-| 2 - RTS  | 3.3v |
+| 1 - 5v out | 5v |
+| 2 - RTS  | 5v |
 | 3 - GND  | GND  |
 | 4 -      |      |
 | 5 - RXD (data) | RX (gpio3) |
