@@ -36,7 +36,7 @@ Connect the esp8266 to an RJ11 cable/connector following the diagram.
 
 | P1 pin   | ESP8266 Pin |
 | ----     | ---- |
-| 2 - RTS  | 3.3v |
+| 2 - RTS  | 5v |
 | 3 - GND  | GND  |
 | 4 -      |      |
 | 5 - RXD (data) | RX (gpio3) |
